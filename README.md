@@ -21,14 +21,12 @@ Esta segunda versión del curso es dictada por:
 
 ## Proyectos
 
-TODO
+<!-- Este repositorio concentra los proyectos grupales que estudiantes desarrollaron durante el semestre, con sus respectiva documentación. -->
 
-<!-- Este repositorio concentra los proyectos grupales que estudiantes desarrollaron durante el semestre, con sus respectiva documentación.
-
-- proyecto-01: fines de abril, sintetizador sonoro funcional con chips integrado, protoboard y cableado.
-- proyecto-02: fines de mayo, sintetizador sonoro modelado en kicad, con esquemáticos, pcb y bill of materials.
-- proyecto-03: fines de junio, sintetizador sonoro funcional con pcb, soldadura, carcasa y montaje de componentes.
-- examen: inicios de julio, concierto con sintetizador sonoro. -->
+- proyecto-01: inicios de septiembre, código con programación orientada a objetos.
+- proyecto-02: fines de octubre, modelado en kicad, con esquemáticos, pcb y bill of materials.
+- proyecto-03: fines de noviembre, funcional con pcb, soldadura, carcasa y montaje de componentes.
+- examen: inicios de diciembre.
 
 ## Horario
 
@@ -36,42 +34,43 @@ Las sesiones de taller ocurren los días martes y viernes de 8:30am a 12:50pm.
 
 ## Calendario
 
-<!-- | Sesión           | Fecha      | Temas                                                | Lecturas           |
+| Sesión           | Fecha      | Temas                                                | Lecturas           |
 | :--------------- | :--------- | :--------------------------------------------------- | :----------------- |
-| 01a              | 03-10 mar  | introducción a máquinas electrónicas                 |                    |
-| 01b              | 03-13 vie  | github, markdown, protoboard, LED, resistores        |                    |
-| 02a              | 03-17 mar  | entrega materiales, resistores en paralelo y serie   |                    |
-| 02b              | 03-20 vie  | esquemáticos, circuitos integrados, chip 555         |                    |
-| 03a              | 03-24 mar  | parlantes y sonido                                   |                    |
-| 03b              | 03-27 vie  | resistor equivalente, circuito monostable chip 555   |                    |
-| 04a              | 03-31 mar  | simulación de circuitos en Falstad                   |                    |
-| 04b              | 04-03 vie  | no hay clases, día feriado                           |                    |
-| 05a              | 04-07 mar  | chips para VCO, modularidad de sintetizadores        |                    |
-| 05b              | 04-10 vie  | secuenciador                                         |                    |
-| 06a              | 04-14 mar  | trabajo en proyecto-01                               |                    |
-| 06b              | 04-17 vie  | trabajo en proyecto-01                               |                    |
-| 07a              | 04-21 mar  | trabajo en proyecto-01                               |                    |
-| 07b              | 04-24 vie  | entrega proyecto-01                                  |                    |
-| 08a              | 04-28 mar  | introducción a esquemáticos en kicad                 |                    |
-| 08b              | 05-01 vie  | no hay clases, día feriado                           |                    |
-| semana de receso | 05-02 y 09 | no hay clases, receso universitario                  |                    |
-| 09a              | 05-12 mar  | esquemáticos y pcb en kicad                          | Flusser, cap. 1    |
-| 09b              | 05-15 vie  | estandarización de huellas en kicad                  | Flusser, cap. 2, 3 |
-| 10a              | 05-19 mar  | trabajo en grupo para proyecto-02                    | Flusser, cap. 4, 5 |
-| 10b              | 05-22 vie  | trabajo en proyecto-02                               | Flusser, cap. 6, 7 |
-| 11a              | 05-25 mar  | trabajo en proyecto-02                               | Flusser, cap. 8, 9 |
-| 11b              | 05-29 vie  | trabajo en proyecto-02                               |                    |
-| 12a              | 06-02 mar  | trabajo en proyecto-02                               |                    |
-| 12b              | 06-05 vie  | entrega proyecto-02                                  |                    |
-| 13a              | 06-09 mar  | gerbers y fabricación                                | Ono, cap. 1, 2     |
-| 13b              | 06-12 vie  | sistemas de notación para sintetizadores             | Ono, cap. 3, 4     |
-| 14a              | 06-16 mar  | soldadura                                            | Ono, cap. 5, 6     |
-| 14b              | 06-19 vie  | entrega proyecto-03                                  |                    |
-| 15a              | 06-23 mar  | soldadura y montaje de circuitos                     | Ono, cap. 7, 8     |
-| 15b              | 06-26 vie  | soldadura y montaje de circuitos                     |                    |
-| 16a              | 06-30 mar  | semana exclusiva de trabajo en talleres              |                    |
-| 16b              | 07-03 vie  | semana exclusiva de trabajo en talleres              |                    |
-| examen           | 07-06/10   | examen de taller, fecha por definir                  |                    | -->
+| 00b              | 08-07 mar  | introducción a máquinas computacionales              |                    |
+| 01a              | 08-11 mar  | github, markdown, protoboard, LED, resistores        | libro 0, cap. 1    |
+| 01b              | 08-14 vie  | github, markdown, protoboard, LED, resistores        | libro 0, cap. 1    |
+| 02a              | 08-18 mar  | entrega materiales, resistores en paralelo y serie   | libro 0, cap. 1    |
+| 02b              | 08-21 vie  | esquemáticos, circuitos integrados, chip 555         | libro 0, cap. 1    |
+| 03a              | 08-25 mar  | parlantes y sonido                                   | libro 0, cap. 1    |
+| 03b              | 08-29 vie  | resistor equivalente, circuito monostable chip 555   | libro 0, cap. 1    |
+| 04a              | 09-01 mar  | simulación de circuitos en Falstad                   | libro 0, cap. 1    |
+| 04b              | 09-04 vie  | no hay clases, día feriado                           | libro 0, cap. 1    |
+| 05a              | 09-08 mar  | chips para VCO, modularidad de sintetizadores        | libro 0, cap. 1    |
+| 05b              | 09-11 vie  | secuenciador                                         | libro 0, cap. 1    |
+| semana de receso | 09-15 a 18 | no hay clases, receso universitario                  | libro 0, cap. 1    |
+| 06a              | 09-22 mar  | trabajo en proyecto-01                               | libro 0, cap. 1    |
+| 06b              | 09-25 vie  | trabajo en proyecto-01                               | libro 0, cap. 1    |
+| 07a              | 09-29 mar  | trabajo en proyecto-01                               | libro 0, cap. 1    |
+| 07b              | 10-02 vie  | no hay clases, aniversario udp                       | libro 0, cap. 1    |
+| 08a              | 10-06 mar  | introducción a esquemáticos en kicad                 | libro 0, cap. 1    |
+| 08b              | 10-09 vie  | no hay clases, día feriado                           | libro 0, cap. 1    |
+| 09a              | 10-13 mar  | esquemáticos y pcb en kicad                          | libro 0, cap. 1    |
+| 09b              | 10-16 vie  | estandarización de huellas en kicad                  | libro 0, cap. 1    |
+| 10a              | 10-20 mar  | trabajo en grupo para proyecto-02                    | libro 0, cap. 1    |
+| 10b              | 10-23 vie  | trabajo en proyecto-02                               | libro 0, cap. 1    |
+| 11a              | 10-27 mar  | trabajo en proyecto-02                               | libro 0, cap. 1    |
+| 11b              | 10-30 vie  | trabajo en proyecto-02                               | libro 0, cap. 1    |
+| 12a              | 11-03 mar  | trabajo en proyecto-02                               | libro 0, cap. 1    |
+| 12b              | 11-06 vie  | entrega proyecto-02                                  | libro 0, cap. 1    |
+| 13a              | 11-10 mar  | gerbers y fabricación                                | libro 0, cap. 1    |
+| 13b              | 11-13 vie  | sistemas de notación para sintetizadores             | libro 0, cap. 1    |
+| 14a              | 11-17 mar  | soldadura                                            | libro 0, cap. 1    |
+| 14b              | 11-20 vie  | entrega proyecto-03                                  | libro 0, cap. 1    |
+| 15a              | 11-24 mar  | soldadura y montaje de circuitos                     | libro 0, cap. 1    |
+| 15b              | 11-27 vie  | soldadura y montaje de circuitos                     | libro 0, cap. 1    |
+| 16a              | 12-01 mar  | semana exclusiva de trabajo en talleres              |                    |
+| 16b              | 12-04 vie  | semana exclusiva de trabajo en talleres              |                    |
+| examen           | 12-08 a 11 | examen de taller, diseño abierto                     |                    |
 
 ## Bibliografía
 
