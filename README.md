@@ -54,11 +54,11 @@ La asistencia la tomamos 9am y 12:50pm.
 | 05a              | 09-08 mar  | trabajo en proyecto-01                               |
 | 05b              | 09-11 vie  | entrega proyecto-01                                  |
 | semana de receso | 09-15 a 18 | no hay clases, receso universitario                  |
-| 06a              | 09-22 mar  | chips RP2040 y RP2050                                |
-| 06b              | 09-25 vie  | escritura de bibliotecas para microcontroladores     |
-| 07a              | 09-29 mar  | escritura de bibliotecas para microcontroladores     |
+| 06a              | 09-22 mar  | programación en C++ parachips RP2040                 |
+| 06b              | 09-25 vie  | programación orientada a objetos en C++              |
+| 07a              | 09-29 mar  | clases, constructores, atributos, métodos      |
 | 07b              | 10-02 vie  | no hay clases, aniversario udp                       |
-| 08a              | 10-06 mar  | introducción a kicad con control de versiones        |
+| 08a              | 10-06 mar  | esquemáticos con kicad con control de versiones      |
 | 08b              | 10-09 vie  | esquemáticos y pcb en kicad para microcontroladores  |
 | 09a              | 10-13 mar  | estandarización de huellas en kicad                  |
 | 09b              | 10-16 vie  | estándares electromecánicos                          |
