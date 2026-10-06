@@ -8,8 +8,8 @@ Curso creado por profesores Aarón Montoya y Matías Serrano.
 
 ## Repositorios asociados
 
-- <https://github.com/disenoUDP/dis8645-2026-2-procesos-1>: primera mitad del curso, agosto y septiembre, sesiones hasta TODO.
-- <https://github.com/disenoUDP/dis8645-2026-2-procesos-2>: segunda mitad del curso, octubre y noviembre, sesiones desde TODO.
+- <https://github.com/disenoUDP/dis8645-2026-2-procesos-1>: primera mitad del curso, agosto y septiembre, sesiones 00b a 07b.
+- <https://github.com/disenoUDP/dis8645-2026-2-procesos-2>: segunda mitad del curso, octubre y noviembre, sesiones 08a a 16b.
 
 ## Equipo docente
 
