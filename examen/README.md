@@ -2,7 +2,7 @@
 
 ## equipo docente
 
-este curso
+este curso es dictado por profesores aarón montoya y matías serrano, por la ayudante emilia guerra, y hemos tenido como residente de taller al estudiante sebastián sáez, quien fue exestudiante de ambos talleres, en su primera iteración del 2025.
 
 ## iteraciones previas
 
@@ -25,3 +25,13 @@ luego tuvimos dos últimas sesiones de taller, martes 24 noviembre 2026 y vierne
 luego tuvimos una semana de trabajo en taller, entre el lunes 30 de noviembre 2026 y el domingo 06 de diciembre 2026, donde los estudiantes trabajaron en sus proyectos a su ritmo y con apoyo del equipo docente.
 
 la semana en la que estamos es la semana de diseño abierto, donde estudiantes presentan el trabajo ante comisión externa, y también lo exponen ante audiencias generales.
+
+## organización del trabajo
+
+cada grupo trabaja dentro de su carpeta, donde existen las subcarpetas:
+
+- animaciones/: con animaciones en formatos gif
+- audios/: con audios en formato .wav, .mp3 o similar.
+- codigos/: con los códigos de los dispositivos creados, en archivos .h, .cpp y similar.
+- imagenes/: con imágenes en formato .png, .jpg o similar.
+- pdfs/: con documentos en formato .pdf, como diagramas, descripciones, etc.
